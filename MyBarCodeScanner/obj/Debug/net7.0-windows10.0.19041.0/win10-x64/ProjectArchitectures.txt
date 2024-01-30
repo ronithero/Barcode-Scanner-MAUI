@@ -1,0 +1,1 @@
+C:\Users\ronit_ya00dwj\source\repos\MyBarCodeScanner\MyBarCodeScanner\MyBarCodeScanner.csproj;x64
